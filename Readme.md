@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/Scaffolding.DatabaseFirst.Blank/MainWindow.xaml)
+* **[NorthwindEntities.Context.cs](./CS/Scaffolding.DatabaseFirst.Blank/NorthwindEntities.Context.cs)**
+<!-- default file list end -->
 # Generated Data Access Layer with Entity Framework Database First
 
 
