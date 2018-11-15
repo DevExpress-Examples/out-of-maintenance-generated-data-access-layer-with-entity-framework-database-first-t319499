@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [NorthwindEntities.Context.cs](./CS/DevExpressWalkthrough/NorthwindEntities.Context.cs)
+<!-- default file list end -->
 # Generated Data Access Layer with Entity Framework Database First
 
 
